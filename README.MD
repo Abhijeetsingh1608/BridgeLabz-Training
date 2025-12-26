@@ -16,3 +16,10 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Committed and pushed Java files
 - Code Link: [program-prerequisites](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites).
 ---
+###  Day 3 – Programming Elements in Java
+**Date:** 18-Dec-2025  
+- Learned variables, data types, operators, user input/output
+- Solved practice problems
+- Pushed solutions to GitHub
+- Code Link: [Programming Elements](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+---
