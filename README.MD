@@ -35,3 +35,9 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Solved student marks and frequency problems
 - Code Link: [Arrays](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 ---
+### Day 6 - Methods
+**Date:** 21-Dec-2025
+- Learned methods declaration,operations
+- Solved practice set of levelone,levaltwo and levelthree
+- Code Link: [Methods](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)
+---
