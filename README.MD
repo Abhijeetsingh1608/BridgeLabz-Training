@@ -38,6 +38,6 @@ This is my readme file which tracks my daily activities of Git/Github.
 ### Day 6 - Methods
 **Date:** 21-Dec-2025
 - Learned methods declaration,operations
-- Solved practice set of levelone,levaltwo and levelthree
+- Solved practice set of levelone,leveltwo and levelthree
 - Code Link: [Methods](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)
 ---
