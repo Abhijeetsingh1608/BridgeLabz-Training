@@ -41,3 +41,9 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Solved practice set of levelone,leveltwo and levelthree
 - Code Link: [Methods](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)
 ---
+### Day 7 – Strings
+**Date:** 22-Dec-2025
+- Explored String, Exception Handing, Error, and try -catch
+- practice Error Handling in String and IndexBound Exception
+- Code Link: [Strings](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
+---
