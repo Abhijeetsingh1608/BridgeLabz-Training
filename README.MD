@@ -23,3 +23,9 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Pushed solutions to GitHub
 - Code Link: [Programming Elements](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 ---
+### Day 4 - Control Flows
+**Date:** 19-Dec-2025
+- Practiced `if`, `else`, `switch`, and loops
+- Implemented decision-making programs
+- Code Link: [Control Flows](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+---
