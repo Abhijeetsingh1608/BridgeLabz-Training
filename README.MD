@@ -29,3 +29,9 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Implemented decision-making programs
 - Code Link: [Control Flows](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 ---
+### Day 5 – Arrays
+**Date:** 20-Dec-2025
+- Learned array declaration, traversal, and operations
+- Solved student marks and frequency problems
+- Code Link: [Arrays](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+---
