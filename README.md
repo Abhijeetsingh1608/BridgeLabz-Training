@@ -60,3 +60,24 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Also solved leetcode problem of two sum
 - Code Link:[Scenario based ](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
 - Code Link:[Leetcode](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+---
+### Day 10– Branch Creation on Github and Oops Overview
+**Date:** 26-Dec-2025
+- Learnt how to Create multi branchs on same repository
+- Explored how to switch branches
+- learnt use of class and object in Oops
+- Solved Scenario based and leet code problems
+- Code link: [Java oops practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice)
+-Code Link:[Class and objects](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
+- Code Link:[Scenario based ](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
+- Code Link:[Leetcode](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+  ---
+ ### Day 12– Constructors 
+**Date:** 27-Dec-2025
+- Explored about constructors and their use cases
+- Solved practice set for constructors
+- Eplored about instance and class variables
+- Solved leetcode problems
+- Code link:[Constructors](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/levelone)
+- - Code Link:[Leetcode](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+
