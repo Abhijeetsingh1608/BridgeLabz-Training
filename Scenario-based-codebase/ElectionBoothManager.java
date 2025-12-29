@@ -14,7 +14,6 @@ public class ElectionBoothManager {
             if (age == -1) {
                 break;
             }
-            // Check eligibility
             if (age >= 18) {
                 System.out.println("You are eligible to vote.");
                 System.out.print("Vote for candidate (1 / 2 / 3): ");

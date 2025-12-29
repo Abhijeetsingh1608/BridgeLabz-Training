@@ -47,3 +47,25 @@ This is my readme file which tracks my daily activities of Git/Github.
 - practice Error Handling in String and IndexBound Exception
 - Code Link: [Strings](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 ---
+### Day 8 - Extras 
+**Date:** 23-Dec-2025
+- Explored errors,exception handling and its use case
+- Use case of try, catch, finally
+- Solved practice set of extras problems
+- Code Link:[Extras](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+---
+### Day 9 - Scenario based and leetcode problems 
+**Date:** 24-Dec-2025
+- Solved Scenario base questions 
+- Also solved leetcode problem of two sum
+- Code Link:[Scenario based ](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
+- Code Link:[Leetcode](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+---
+### Day 10- Scenario based and leetcode problems 
+**Date:** 26-Dec-2025
+- Solved Scenario based questions 
+- Also solved leetcode problems
+- Code Link:[Scenario based ](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
+- Code Link:[Leetcode](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+---
+
