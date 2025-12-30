@@ -14,3 +14,14 @@
 - Solved practice set for constructors
 - Eplored about instance and class variables
 - Code link:[Constructors](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/levelone)
+  ---
+   ### Day 13– Oops Inbuilt functions
+  **Date:** 29-Dec-2025
+  - Explored about Inbuilt functions
+  - Used Keywords like Static,final,this and InstanceOf operator
+  - Solved practice set while using this keyword
+  - Code Link:[Inbuilt functions](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction)
+    ---
+   
+    
+  
