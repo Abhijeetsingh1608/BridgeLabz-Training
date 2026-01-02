@@ -79,5 +79,41 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Eplored about instance and class variables
 - Solved leetcode problems
 - Code link:[Constructors](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/levelone)
-- - Code Link:[Leetcode](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+-  Code Link:[Leetcode](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+  ---
+  ### Day 13 - Scenario Based program
+**Date:** 29-Dec-2025
+- Added Scenario Based Solution to the given programs.
+- worked on various method to solve scenario like 'Parking System', 'ShopkeeperDiscountDashboard', 'Recharge Simulator'
+- code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
+---
+### Day 14 - Worked on Inbuilt Function
+**Date:** 30-Dec-2025
+- Worked on java-oops-practice Branch
+- created real world problem solutions using access modifier 'private', 'public'.
+- used keywords like 'static' 'final'.
+- code link[oops-Inbuilt](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction)
+---
+  ### Day 15 - Worked on java oops practice and scenario based 
+  **Date:** 31-Dec-2025
+  - worked on java-oops-practice
+  - learnt to draw object,class and sequence diagram
+  - Solved practice set for objectmodelling
+  - code link[Objectmodelling](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling)
+  - code link[Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
+---
+### Day 16 - Worked On java-oops-practice
+**Date:** 01-Jan-2026
+- Worked on java-oops-practice
+- worked on Inheritance
+- Solved problems like 'UniversityAndManagement System', 'Company and Department'
+- code link [Inheritance](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+- code link[Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
+---
+### Day 17 - Worked on java-oops-practice
+**Date:** 02-Jan-2026
+- Worked on java-oops-practice
+- practice Encapsulation, Polymorphism 
+- code link [Encapsulation](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+---
 
