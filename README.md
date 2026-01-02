@@ -92,7 +92,9 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Worked on java-oops-practice Branch
 - created real world problem solutions using access modifier 'private', 'public'.
 - used keywords like 'static' 'final'.
+- Solved Scenario based questions.
 - code link[oops-Inbuilt](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction)
+- code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
 ---
   ### Day 14 - Worked on java oops practice and scenario based 
   **Date:** 31-Dec-2025
