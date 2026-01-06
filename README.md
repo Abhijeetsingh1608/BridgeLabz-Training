@@ -126,4 +126,62 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Created Solutions like 'VehicleRental Application', 'ewallet Application'... and more.
 - Implemented abstraction concept to create abstract Class also used function overriding Concepts.
 - code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
+  ---
+  ## Day 19 – Worked on Scenario Based Problems
+**Date:** 04-Jan-2026
+### Java OOPS Practice
+- Worked on `java-oops-practice` branch
+- Solved **2 more problems** in the *Scenario Based* folder
+- Created solutions:
+  - **CabbyGO**
+  - **My Bank**
+- Implemented concepts:
+  - Interfaces
+  - Abstraction
+  - Inheritance
+- Used access modifiers:
+  - `private`
+  - `protected`
+  (to protect data and files from direct access)
+- **Code Link:** Scenario Based
+---
+## Day 19 – Worked on Java DSA Practice
+**Date:** 04-Jan-2026
+
+### Stack
+- Practiced Stack programs
+- Implemented:
+  - Recursion
+  - Stock Span problem
+- **Code Link:** Stack
+
+### Queue
+- Practiced Queue programs
+- Implemented:
+  - Queue using Stack
+  - Greedy approach in Queue
+- **Code Link:** Queue
+
+### HashMap
+- Practiced HashMap programs
+- Solved problems:
+  - Two Sum (using HashSet)
+  - SubArray problem
+- **Code Link:** HashMap
+
+---
+## Day 20 – Worked on Scenario Based Problems
+**Date:** 04-Jan-2026
+### Java OOPS Practice
+- Worked on `java-oops-practice` branch
+- Solved **2 more problems** in the *Scenario Based* folder
+- Created solutions:
+  - **CampusConnect**
+  - **Swift Cart**
+- Implemented concepts:
+  - Interfaces
+  - Abstraction
+  - Inheritance
+- **Code Link:** Scenario Based
+
 
