@@ -127,7 +127,7 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Implemented abstraction concept to create abstract Class also used function overriding Concepts.
 - code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
   ---
-  ## Day 19 – Worked on Scenario Based Problems
+  ## Day 18 – Worked on Scenario Based Problems
 **Date:** 04-Jan-2026
 ### Java OOPS Practice
 - Worked on `java-oops-practice` branch
@@ -143,35 +143,32 @@ This is my readme file which tracks my daily activities of Git/Github.
   - `private`
   - `protected`
   (to protect data and files from direct access)
-- **Code Link:** Scenario Based
+- **Code Link:** [Scenario Based](**https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased**)
 ---
-## Day 19 – Worked on Java DSA Practice
+## Day 18 – Worked on Java DSA Practice
 **Date:** 04-Jan-2026
-
 ### Stack
 - Practiced Stack programs
 - Implemented:
   - Recursion
   - Stock Span problem
-- **Code Link:** Stack
-
+- **Code Link:** [Stack](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/stackandqueue)
 ### Queue
 - Practiced Queue programs
 - Implemented:
   - Queue using Stack
   - Greedy approach in Queue
-- **Code Link:** Queue
-
+- **Code Link:** [Queue](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/stackandqueue)
 ### HashMap
 - Practiced HashMap programs
 - Solved problems:
   - Two Sum (using HashSet)
   - SubArray problem
-- **Code Link:** HashMap
+- **Code Link:** [HashMap](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/hashmapandhashfunctions)
 
 ---
-## Day 20 – Worked on Scenario Based Problems
-**Date:** 04-Jan-2026
+## Day 19 – Worked on Scenario Based Problems
+**Date:** 05-Jan-2026
 ### Java OOPS Practice
 - Worked on `java-oops-practice` branch
 - Solved **2 more problems** in the *Scenario Based* folder
@@ -182,6 +179,6 @@ This is my readme file which tracks my daily activities of Git/Github.
   - Interfaces
   - Abstraction
   - Inheritance
-- **Code Link:** Scenario Based
+- **Code Link:** [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
 
 
