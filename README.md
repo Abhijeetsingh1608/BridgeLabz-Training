@@ -85,7 +85,20 @@
   - Abstraction
   - Inheritance
 - **Code Link:** [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
+  ---
+### Day 20 – Worked on Scenario Based Problems
+**Date:** 06-Jan-2026
+### Java OOPS Practice
+- Worked on `java-oops-practice` branch
+- Solved **2 more problems** in the *Scenario Based* folder
+- Created solutions:
+  - **edumentor**
+  - **FitTrack**
+- Implemented concepts:
+  - Interfaces
+  - Access modifiers
+  - Inheritance
+- **Code Link:** [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
 
-   
     
   
