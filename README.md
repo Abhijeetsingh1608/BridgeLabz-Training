@@ -127,7 +127,7 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Implemented abstraction concept to create abstract Class also used function overriding Concepts.
 - code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
   ---
-  ## Day 18 – Worked on Scenario Based Problems
+ ## Day 18 – Worked on Scenario Based Problems
 **Date:** 04-Jan-2026
 ### Java OOPS Practice
 - Worked on `java-oops-practice` branch
@@ -143,7 +143,7 @@ This is my readme file which tracks my daily activities of Git/Github.
   - `private`
   - `protected`
   (to protect data and files from direct access)
-- **Code Link:** [Scenario Based](**https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased**)
+- **Code Link:** [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
 ---
 ## Day 18 – Worked on Java DSA Practice
 **Date:** 04-Jan-2026
