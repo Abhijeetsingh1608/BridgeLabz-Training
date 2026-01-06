@@ -71,7 +71,7 @@
   (to protect data and files from direct access)
 - **Code Link:** [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
   ---
-###Day 19 – Worked on Scenario Based Problems
+### Day 19 – Worked on Scenario Based Problems
 **Date:** 05-Jan-2026
 ### Java OOPS Practice
 - Worked on `java-oops-practice` branch
