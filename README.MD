@@ -74,3 +74,10 @@ This is my readme file which tracks my daily activities of Git/Github.
 - worked on various method to solve scenario like 'Parking System', 'ShopkeeperDiscountDashboard', 'Recharge Simulator'
 - code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
 ---
+### Day 13 - Worked on Scenario based 
+**Date:** 30-Dec-2025
+- Worked on core-java-practice Branch
+- Solved Scenario based questions.
+- code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
+
+
