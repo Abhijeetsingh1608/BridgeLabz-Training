@@ -68,4 +68,9 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Code Link:[Scenario based ](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
 - Code Link:[Leetcode](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
 ---
-
+ ### Day 12- Scenario Based program
+**Date:** 29-Dec-2025
+- Added Scenario Based Solution to the given programs.
+- worked on various method to solve scenario like 'Parking System', 'ShopkeeperDiscountDashboard', 'Recharge Simulator'
+- code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
+---
