@@ -79,5 +79,12 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Worked on core-java-practice Branch
 - Solved Scenario based questions.
 - code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
+ ---
+ ### Day 14 -worked on scenario based 
+  **Date:** 31-Dec-2025
+  - worked on core-java-practice
+  - solved problems of festival lucky draw and Bus Route distance tracker
+  - code link[Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
+---
 
 
