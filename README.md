@@ -53,7 +53,23 @@
 - Implemented abstraction concept to create abstract Class also used function overriding Concepts.
 - code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
   ---
-
+### Day 18 – Worked on Scenario Based Problems
+**Date:** 04-Jan-2026
+### Java OOPS Practice
+- Worked on `java-oops-practice` branch
+- Solved **2 more problems** in the *Scenario Based* folder
+- Created solutions:
+  - **CabbyGO**
+  - **My Bank**
+- Implemented concepts:
+  - Interfaces
+  - Abstraction
+  - Inheritance
+- Used access modifiers:
+  - `private`
+  - `protected`
+  (to protect data and files from direct access)
+- **Code Link:** [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
    
     
   
