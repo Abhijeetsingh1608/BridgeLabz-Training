@@ -38,7 +38,12 @@
 - Explored types of Inheritance like-Single,Multilevel,Hierarchical
 - code link [Inheritance](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
   ---
-  
+  ### Day 16 - Worked on java-oops-practice
+**Date:** 02-Jan-2026
+- Worked on java-oops-practice
+- practice Encapsulation, Polymorphism 
+- code link [Encapsulation](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+---
 
    
     
