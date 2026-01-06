@@ -28,12 +28,10 @@
 ###  Topics Covered
 - Worked on **Java OOPS practice**
 - Practiced **Object Modelling** concepts
-###  Problems Solved
-- University and Management System
-- Company and Department
  **Code Link:** [Object Modelling](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling)
 
 ---
+
 
    
     
