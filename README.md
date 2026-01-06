@@ -31,7 +31,14 @@
  **Code Link:** [Object Modelling](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling)
 
 ---
-
+### Day 15 - Worked On java-oops-practice
+**Date:** 01-Jan-2026
+- Worked on java-oops-practice
+- worked on Inheritance
+- Explored types of Inheritance like-Single,Multilevel,Hierarchical
+- code link [Inheritance](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+  ---
+  
 
    
     
