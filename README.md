@@ -43,7 +43,16 @@
 - Worked on java-oops-practice
 - practice Encapsulation, Polymorphism 
 - code link [Encapsulation](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
----
+ ---
+ ### Day 17 - Worked on Scenario Based problem
+**Date:** 03-jan-2026
+- Worked on java-oops-practice branch
+- created a new folder structure in branch 'java-oops-practice' with name 'scenario-based'.
+- practice 5 problem of Scenario Based
+- Created Solutions like 'VehicleRental Application', 'ewallet Application'... and more.
+- Implemented abstraction concept to create abstract Class also used function overriding Concepts.
+- code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
+  ---
 
    
     
