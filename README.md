@@ -60,6 +60,6 @@ This branch tracks my progress log of **Data Structures**.
   - Two Sum using HashSet
   - Subarray problem
 
-🔗 **Code Link:** [HashMap](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/hashmapandhashfunctions)  
+ **Code Link:** [HashMap](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/hashmapandhashfunctions)  
 
 ---
