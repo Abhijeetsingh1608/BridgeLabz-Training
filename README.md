@@ -195,7 +195,7 @@ This is my readme file which tracks my daily activities of Git/Github.
   - Inheritance
 - **Code Link:** [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
  ---
- ##  Day 20 – Sorting Algorithms
+ ## Sorting Algorithms
 **Date:** 06-Jan-2026  
 ###  Topics Covered
 - Practiced **Sorting algorithm programs**
