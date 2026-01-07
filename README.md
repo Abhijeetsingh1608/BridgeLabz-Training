@@ -63,3 +63,12 @@ This branch tracks my progress log of **Data Structures**.
  **Code Link:** [HashMap](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/hashmapandhashfunctions)  
 
 ---
+##  Day 20 – Sorting Algorithms
+**Date:** 06-Jan-2026  
+
+###  Topics Covered
+- Practiced **Sorting algorithm programs**
+- Solved problems of:
+  - Bubbles sort,merge sort,inserion sort,heap sort,selection sort and quick sort
+ **Code Link:** [Sorting](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/sorting)
+---
