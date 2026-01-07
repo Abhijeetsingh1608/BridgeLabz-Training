@@ -98,7 +98,7 @@ This is my readme file which tracks my daily activities of Git/Github.
 - code link[oops-Inbuilt](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction)
 - code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
 ---
-  ### Day 14 - Worked on java oops practice and scenario based 
+### Day 14 - Worked on java oops practice and scenario based 
   **Date:** 31-Dec-2025
   - worked on java-oops-practice
   - learnt to draw object,class and sequence diagram
@@ -129,6 +129,7 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Implemented abstraction concept to create abstract Class also used function overriding Concepts.
 - code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
   ---
+# Week 3 = java - dsa - practice 
 ### Switched to java-dsa-practice
 ###  Topics Covered
 - Practiced **LinkedList problems**
@@ -141,6 +142,7 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Round Robin Problem
 - Library Management System
 - **Code Link:** [LinkedList](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/linkedlist)
+  ---
  ## Day 18 – Worked on Scenario Based Problems
 **Date:** 04-Jan-2026
 ### Java OOPS Practice
