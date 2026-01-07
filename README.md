@@ -129,6 +129,18 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Implemented abstraction concept to create abstract Class also used function overriding Concepts.
 - code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
   ---
+### Switched to java-dsa-practice
+###  Topics Covered
+- Practiced **LinkedList problems**
+- Studied core concepts of:
+  - Singly Linked List
+  - Doubly Linked List
+- Implemented **Circular Linked List**
+- Solved related LinkedList problems
+### Problems Solved
+- Round Robin Problem
+- Library Management System
+- **Code Link:** [LinkedList](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/linkedlist)
  ## Day 18 – Worked on Scenario Based Problems
 **Date:** 04-Jan-2026
 ### Java OOPS Practice
