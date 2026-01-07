@@ -1,5 +1,6 @@
 #BridgeLabz Training :
 This is my readme file which tracks my daily activities of Git/Github.
+# Week 1 = core - java - practice
 ---
 ### Day 1 – Git & GitHub Setup
 **Date:** 16-Dec-2025
