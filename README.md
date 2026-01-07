@@ -24,7 +24,7 @@ This branch tracks my progress log of **Data Structures**.
 
 ---
 
-## Day 19 – Stack Practice  
+## Day 18 – Stack Practice  
 **Date:** 04-Jan-2026  
 **Branch:** `java-dsa-practice`
 
