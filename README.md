@@ -62,6 +62,7 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Code Link:[Scenario based ](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
 - Code Link:[Leetcode](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
 ---
+# week 2 = java - oops - practice
 ### Day 10– Branch Creation on Github and Oops Overview
 **Date:** 26-Dec-2025
 - Learnt how to Create multi branchs on same repository
