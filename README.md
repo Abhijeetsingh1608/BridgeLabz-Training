@@ -1,4 +1,4 @@
-#BridgeLabz Training :
+# BridgeLabz Training :
 This is my readme file which tracks my daily activities of Git/Github.
 # Week 1 = core - java - practice
 ---
