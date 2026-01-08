@@ -219,6 +219,14 @@ This is my readme file which tracks my daily activities of Git/Github.
   - Bubbles sort,merge sort,inserion sort,heap sort,selection sort and quick sort
     
  **Code Link:** [Sorting](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/sorting)
+ ---
+ ### Day 21 Worked on 'java-dsa-practice' branch
+**Date:** 07-Jan-2026
+- Practice Linear and Binay Search Algorithm
+- Implemented various Searching Algorithm like '_linearSearch_', '_BinarySearch_', and various functions like '_StringBuffer_', '_StringBuilder_' and More...
+- Solved Problems like 'RemoveDuplicates', 'Sentence Search' Peak Element.
+- code link [Linear and binary](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/linearandbinarysearch)
+---
  
     
 
