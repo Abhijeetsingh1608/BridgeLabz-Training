@@ -7,7 +7,7 @@
 - Explored how to switch branches
 - learnt use of class and object in Oops
 - Code link: [Java oops practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice)
--Code Link:[Class and objects](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject) 
+Code Link:[Class and objects](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject) 
   ---
 ### Day 12– Constructors 
 **Date:** 27-Dec-2025
@@ -99,6 +99,15 @@
   - Access modifiers
   - Inheritance
 - **Code Link:** [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
+  ---
+### Day 21 Worked On Scenario Based Problems
+**Date:** 07-jan-2026
+- Worked on java-oops-practice Branch
+- Solved 5 problems in the scenario Based Folder.
+- Created Solutions like '_LoanBuddy_', '_PetPal_', '_Book Bazaar_', '_ParkEase_' and more..
+- Implemented Concepts like Inheritance, Interfaces and Encapsulation.
+- code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
+---
 
     
   
