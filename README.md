@@ -227,6 +227,14 @@ This is my readme file which tracks my daily activities of Git/Github.
 - Solved Problems like 'RemoveDuplicates', 'Sentence Search' Peak Element.
 - code link [Linear and binary](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/linearandbinarysearch)
 ---
+### Worked On Scenario Based Problems
+**Date:** 07-jan-2026
+- Worked on java-oops-practice Branch
+- Solved 5 problems in the scenario Based Folder.
+- Created Solutions like '_LoanBuddy_', '_PetPal_', '_Book Bazaar_', '_ParkEase_' and more..
+- Implemented Concepts like Inheritance, Interfaces and Encapsulation.
+- code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
+---
  
     
 
