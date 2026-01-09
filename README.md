@@ -235,6 +235,14 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - Implemented Concepts like Inheritance, Interfaces and Encapsulation.
 - code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
 ---
+### Day 22 - Worked On Scenario Based Problems
+**Date:** 08-jan-2026
+- Worked on java-oops-practice Branch
+- Solved 2 problems in the scenario Based Folder.
+- Created Solutions like '_MediStore_', '_TourMate_'...
+- Implemented Concepts like Inheritance, Interfaces, Encapsulation and Polymorphism.
+- code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
+---
  
     
 
