@@ -243,6 +243,14 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - Implemented Concepts like Inheritance, Interfaces, Encapsulation and Polymorphism.
 - code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
 ---
+### Day 23 Worked on 'java-dsa-practice' branch
+**Date:** 09-Jan-2026
+- Practice Runtime Analysis of Algorithm
+- Implemented various Searching and Sorting Algorithm like '_linearSearch_', '_BinarySearch_', _MergerSort_', '_QuickSort_' and More...
+- Compare between different Algorithms on their runtime.
+- Solved Problems like 'String Concatenation ', 'Search COmparison' 'Sorting comparison'.
+- code link [Runtime Analysis](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/runtimeanalysis)
+---
  
     
 
