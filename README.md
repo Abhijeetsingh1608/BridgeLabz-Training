@@ -251,7 +251,7 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - Solved Problems like 'String Concatenation ', 'Search COmparison' 'Sorting comparison'.
 - code link [Runtime Analysis](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/runtimeanalysis)
 ---
- ### worked On scenario Based Problems
+ ### Day 24 worked On scenario Based Problems
 **Date:** 10-jan-2026
 - worked on java-oops-practice branch
 - Solved 3 problems in the scenario Based Folder.
@@ -259,6 +259,13 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - Implemented Concepts like Inheritance, Interface and Encapsulation.
 - code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
 ---
-    
+### Day 25 worked on 'java-dsa-practice' branch
+**Date:** 11-jan-2026
+- Worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 3 Scenario Based problems.
+- Used various Data structure stacks like linkedlist and queue.
+- Solved problems like '_BookSelf_', '_BrowserBuddy_' and '_AmbulanceRoute_'.
+- code link[scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
+ 
 
 
