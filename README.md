@@ -251,7 +251,14 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - Solved Problems like 'String Concatenation ', 'Search COmparison' 'Sorting comparison'.
 - code link [Runtime Analysis](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/runtimeanalysis)
 ---
- 
+ ### worked On scenario Based Problems
+**Date:** 10-jan-2026
+- worked on java-oops-practice branch
+- Solved 3 problems in the scenario Based Folder.
+- Created Solution like '_artify_', '_FoodLoop_', '_SkillForge_'.
+- Implemented Concepts like Inheritance, Interface and Encapsulation.
+- code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
+---
     
 
 
