@@ -266,6 +266,22 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - Used various Data structure stacks like linkedlist and queue.
 - Solved problems like '_BookSelf_', '_BrowserBuddy_' and '_AmbulanceRoute_'.
 - code link[scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
+ ---
+ ### Day 26 worked on 'java-dsa-practice' 
+**Date:** 12-jan-2026
+- worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 3 Scenario Based problem.
+- Used Various Data Structure like HashMap, stack, circularLinkedlist,
+- Solved problems like '_TextEditor_', '_TrafficManager_', 'TrainCompanion'.
+- code link[scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
  
+### worked on Scenario Based Problems
+**Date:** 12-jan-2026
+- Worked on java-oops-practice branch
+- Solved 3 more problems in the Scenario based Folder
+- Created Solutions like '_HomeNest_', '_BudgetWise_', '_GameBox_'..
+- Implemented Concepts like Interface, Inheritance, constructors and more.
+- code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
+---
 
 
