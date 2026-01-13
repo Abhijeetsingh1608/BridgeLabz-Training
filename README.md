@@ -116,6 +116,13 @@ Code Link:[Class and objects](https://github.com/Abhijeetsingh1608/BridgeLabz-Tr
 - Implemented Concepts like Inheritance, Interfaces, Encapsulation and Polymorphism.
 - code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
 ---
+ ### Day 24 worked On scenario Based Problems
+**Date:** 10-jan-2026
+- worked on java-oops-practice branch
+- Solved 3 problems in the scenario Based Folder.
+- Created Solution like '_artify_', '_FoodLoop_', '_SkillForge_'.
+- Implemented Concepts like Inheritance, Interface and Encapsulation.
+- code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
 
     
   
