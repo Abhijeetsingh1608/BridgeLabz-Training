@@ -132,6 +132,14 @@ Code Link:[Class and objects](https://github.com/Abhijeetsingh1608/BridgeLabz-Tr
 - Implemented Concepts like Interface, Inheritance, constructors and more.
 - code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
 ---
+### Day 28 - worked on Scenario Based Problems
+**Date:** 14-jan-2026
+- Worked on java-oops-practice branch
+- Solved 2 more problems in the Scenario based Folder
+- Created Solutions like '_payXpress_' and '_BirdSanctuary_'.
+- Implemented Concepts like Interface, Inheritance, constructors and more.
+- code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
+---
 
     
   
