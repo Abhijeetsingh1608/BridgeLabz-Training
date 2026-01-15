@@ -104,7 +104,7 @@ This branch tracks my progress log of **Data Structures**.
 - Solved problems like '_TextEditor_', '_TrafficManager_', 'TrainCompanion'.
 - code link[scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
   ---
-  ### Day 27 worked on 'java-dsa-practice' 
+### Day 27 worked on 'java-dsa-practice' 
 **Date:** 13-jan-2026
 - worked on 'scenario-based' directory in branch java-dsa-practice
 - Solved 3 Scenario Based problem.
