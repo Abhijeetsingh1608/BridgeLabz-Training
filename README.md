@@ -299,7 +299,14 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - Implemented Concepts like Interface, Inheritance, constructors and more.
 - code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
 ---
-
+### Day 29 worked on 'java-dsa-practice' 
+**Date:** 15-jan-2026
+- worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 5 more Scenario Based problem.
+- Used Various Data Structure like BubbleSorting, MergeSort, divide&Conquer technique" and more...
+- Solved problems like '_HospitalQueue_', '_SmartSelf_', '_zipzipMart_',_EventManager_ and _ExamCell_.
+- code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
+---
  
 
 
