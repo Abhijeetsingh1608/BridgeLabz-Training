@@ -307,6 +307,25 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - Solved problems like '_HospitalQueue_', '_SmartSelf_', '_zipzipMart_',_EventManager_ and _ExamCell_.
 - code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
 ---
+### Day 30 worked on 'java-dsa-practice' 
+**Date:** 16-jan-2026
+- worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 3 more Scenario Based problem.
+- Used Various Data Structure like BubbleSort, MergeSort, divide&Conquer technique" and more...
+- Solved problems like '_RoboWareHouse_', '_CinemaHouse_', '_cropMonitor_'.
+- code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
+---
+# Week 4 = java - collections - practice
+---
+### Day 30 – Java Generics
+**Date:** 16-jan-2026
+- Worked on java Generics in branch **java-collections-practice**
+- Learn about **type safety**, **reusability**, and **maintainability** in java
+- Learn about Upper Lower Bound wildCard '< ? >' for read only access.
+- Implemented 5 program in java generics
+- Solved problems like _SmartWareHouse Management_ , _Personalized Meal Plan Generator_ , _Multi-level Course_ and more...
+- code link [Generics](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/generics)
+---
  
 
 
