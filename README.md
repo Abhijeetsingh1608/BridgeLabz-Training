@@ -347,6 +347,14 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - Solved problems like '_ArtExpo_', '_FleetManager_', '_IceCreamRush_', ''_SmartLibrary_'.
 - code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
 ---
+### Day 32 worked on 'java-oops-practice'
+**Date:** 18-jan-2026
+- Worked on java-oops-practice branch
+- Solved 2 more problems in the Scenario based Folder
+- Created Solutions like '_GeoMeasure_' and '_BagnBall_'.
+- Implemented Concepts like Interface, Inheritance, constructors and more.
+- code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
+---
  
 
 
