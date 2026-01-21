@@ -326,7 +326,7 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - Solved problems like _SmartWareHouse Management_ , _Personalized Meal Plan Generator_ , _Multi-level Course_ and more...
 - code link [Generics](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/generics)
 ---
-### Day 32 - Collections
+### Day 31 - Collections
 **Date:** 17-jan-2026
 - Worked on java collections
 - Learn about **Interfaces** like _List_, _Map_, _Queue_ and more..
@@ -339,6 +339,14 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - code link [Queue Interface](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/queueinterface)
 - code link [Examples](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/examples)
   ---
+ ###  worked on 'java-dsa-practice' 
+**Date:** 17-jan-2026
+- worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 4 more Scenario Based problem.
+- Used Various Data Structure like BubbleSort, MergeSort, divide&Conquer technique" and more...
+- Solved problems like '_ArtExpo_', '_FleetManager_', '_IceCreamRush_', ''_SmartLibrary_'.
+- code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
+---
  
 
 
