@@ -22,3 +22,12 @@
 - code link [setinterface](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/setinterface)
 - code link [Queue Interface](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/queueinterface)
 - code link [Examples](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/examples)
+  ---
+### Day 3 - java Streams
+**Date:** 20-jan-2026
+- worked on java streams
+- Learn about File Handling, Buffered Streams, ByteArray Streams
+- Implemented 10 programs on java streams
+- solved problems like _Read a Large File_, _Store and Retrieve_, _Efficient file copy_ and more..
+- code link [java streams](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/javastreams)
+--- 
