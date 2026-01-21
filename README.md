@@ -355,6 +355,13 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - Implemented Concepts like Interface, Inheritance, constructors and more.
 - code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
 ---
+### Day 34 - java Streams on branch 'java-collections-practice'
+**Date:** 20-jan-2026
+- worked on java streams 
+- Learn about File Handling, Buffered Streams, ByteArray Streams
+- Implemented 10 programs on java streams
+- solved problems like _Read a Large File_, _Store and Retrieve_, _Efficient file copy_ and more..
+- code link [java streams](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/javastreams)
  
 
 
