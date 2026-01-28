@@ -362,7 +362,78 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - Implemented 10 programs on java streams
 - solved problems like _Read a Large File_, _Store and Retrieve_, _Efficient file copy_ and more..
 - code link [java streams](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/javastreams)
- 
+---
+### Day 35 - Exceptions Handling on branch 'java-collections-practice'
+- worked on exceptions handling
+- learnt about types of exceptions like as - checked and unchecked exxceptions
+- Explored exception handling blocks lke as - try-catch blocks,try-catch-finally blocks
+- Used throws clause, throw statement as well.
+-Solved problems like checked, unchecked and custom exceptions
+-Code Link [Exceptions](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/exceptionhandling)
+ ### Day 36 - Regex & JUNIT
+**Date:** 22-jan-2026
+- worked on java-collections-practice branch
+- Learn about Regex API like: '_Pattern_' , '_matcher_' and other methods like find(), replaceall() matches()
+- Learn About JUNIT Framework, perform various testing through it. @beforeeach, @test and various other methods.
+- Solved 15 problems using Regex of different difficulty like basic and Advance.
+- Implemented Solutions of problems like usernameValidator, SSNValidator, HexColour Code and more...
+- code link [regex](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/regex)
+  ---
+  ### JUNIT problems
+  **Date:** 22-jan-2026
+ - worked on java-collections-practice
+ - Implemented JUNIT testing in 13 problems statement
+ - Solved problems like:  _privatecalulator_, _stringutility_, _@beforeeachAnnotation_, _@aftereachAnnotation_ , _testingExceptionHandling_ and more...
+- code link [JUNIT](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/junit)
+  ---
+  ### worked on 'java-dsa-practice' 
+**Date:** 22-jan-2026
+- worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 3 more Scenario Based problem.
+- Used concepts of Binary Search Tree to solve problems.
+- Solved problems like '_universityrecord_', '_ecommerceproduct_, '_musicapp_'.
+- code link [scenario-based](https://github.com/harsh-vardhan36/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/com/src/com/scenariobased/binarysearchtree)
+---
+### Day 37 worked on 'java-dsa-practice' 
+**Date:** 23-jan-2026
+- worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 3 more Scenario Based problem.
+- Used concepts of AVL Tree to solve problems.
+- Solved problems like '_gamingapp_', '_onlineticketbooking_, '_hospitalqueue_'.
+- code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
+---
+  ### Day 37 - Reflection
+  **Date:** 23-jan-2026
+ - worked on java-collection-practice branch
+ - Learned Java Reflection fundamentals and runtime class inspection Explored Class, Method, Field, Constructor APIs.
+ - Accessed private fields, methods, constructors dynamically  
+ - Created objects and invoked methods at runtime  
+ - Worked with annotations and dynamic proxies  
+ - Built mini versions of DI container, object mapper, and JSON serializer  
+ - Implemented logging and method execution timing using reflection
+ - Code link [Reflections](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/reflection)
+---
+### Day 38 - Annotations
+**Date:** 24-jan-2026
+- Worked on java-collections-practice branch
+- Learned core concepts of Java Annotations (built-in, custom, meta-annotations).
+- practiced annotations like @override, @deprecated, SuppressWarnings.
+- Solved 7 problems on Annotations
+- Implemented Reflection-based processing of annotations
+- Code link [Annotations](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/annotations)
+- [Customannotations](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/customannotations)
+---
+### Day 39 - Scenario-based practice
+**Date:** 25-jan-2026
+- worked on scenario-based on java-collections-practice branch
+- Implemented Concepts like Collections, Generics, and Regex
+- Solved 10 problems of scenario-based quesstions
+- Implemeted solutions of problems like DealTracker, SongVault, ResumeAnalyzer, TravelLog and more...
+- used concepts like collections, exceptionHandling, streams, Map<>, regex and more...
+- Code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/Scenario-based-codebase/com/src/com)
+---
+# Week 5 -  java - iostreams - practice
+---
 
 
 
