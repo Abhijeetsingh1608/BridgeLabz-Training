@@ -1,3 +1,33 @@
+# Eclipse Workspace (IMPORTANT)
+.metadata/
+**/.metadata/
+
+# Eclipse project files
+.settings/
+.project
+.classpath
+
+# Maven / Gradle
+target/
+bin/
+.gradle/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+*.tmp
+*.bak
+
+# Node / WebView / SWT garbage
+**/EBWebView/
+**/leveldb/
+**/Cache/
+**/Cookies
+**/Network/
+**/GPUCache/
 target/
 pom.xml.tag
 pom.xml.releaseBackup
