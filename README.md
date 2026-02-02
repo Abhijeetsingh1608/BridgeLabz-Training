@@ -496,7 +496,7 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - Revise concepts about Collectors , static method, default method, functional Interface in java8.
 - Implemented concepts like FunctionalInterface , LambdaExpressions , staticMethod , defaultMethod and more ...
 - Solved 10 problems on java8 collectors.
-- Created Solution _'Smart City Transport & Service Management System'_.
+- Created Solution of _'Smart City Transport & Service Management System'_.
 - Code link [Workshop](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/main/java/com/smartCityTransportServiceManagementSystem)
 ---
 
