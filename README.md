@@ -485,7 +485,7 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 **Date:** 30-jan-2026
 - worked on java8-programming-practice
 - Learn about Collectors in java8.
-- Implemented concepts like _groupingBy()_ , _toMap()_ , _.collect_ and more ...
+- Implemented the concepts like _groupingBy()_ , _toMap()_ , _.collect_ and more ...
 - Solved 5 problems on java8 collectors.
 - Created Solutions like : _Student Result Grouping_ , _Word Frequency Counter_ , _Library Book Statistics_.
 - Code link [Collectors](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/main/java/com/collectors)
