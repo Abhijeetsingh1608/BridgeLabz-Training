@@ -452,6 +452,53 @@ This is my readme file which tracks my daily activities of Git/Github during thi
 - Implemented Questions like Student, Car, JSON file , JSON array and JSON to XML Format.
 - code link [JSON](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/javaiostreamsconcept/src/com/json)
 ---
+# week 6 = java8 - programming - practice
+---
+### Day 41 - worked on java8-programming-practice branch
+**Date:** 28-jan-2026
+- Worked on java8-programming-practice
+- Learn about Lambda expressions
+- Implemented concepts like Functional Interface, override, and more...
+- Solved 6 more programs of lambda expressions
+- Created solutions like : _Ecommerce_, _Filtering_, _SmartHome_...
+- Code link [Lambda Expression](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/main/java/com/lambdaepressions)
+---
+### worked on Functional Interface in java8-programming-practice branch
+**Date:** 28-jan-2026
+- worked on java8-programming-practice branch
+- Learn about Functional Interface in java8.
+- Implemented concepts like Interface, Predicate<> , Function, Marker Interface.
+- Solved 15 programs on Functional Interface.
+- Created Solutions like : _Digital Payment_ , _Temperature ALert System_ , _Date Format Ulity_, _Data Tagging_ and more ...
+- Code link [Functional Interface](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/main/java/com/funtionalinterfaces)
+---
+### Day 42 - worked on java8-programming-practice
+**Date:** 29-Jan-2026
+- Worked on java8-programming-practice branch
+- Learn about Stream API
+- Implemented concepts like collect, foreach, ordered Streams and  unordered Streams
+- Solved 10 programs on Streams API. 
+- Created Solution like : _Hospital Doctor Availability_ , _Stock Price Logger_, _IOT Sensor Reading_ , _Logging Transcations_ and more ...
+- code link [Stream API](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/main/java/com/streamapi)
+---
+### Day 43 - worked on java8-programming-practice
+**Date:** 30-jan-2026
+- worked on java8-programming-practice
+- Learn about Collectors in java8.
+- Implemented concepts like _groupingBy()_ , _toMap()_ , _.collect_ and more ...
+- Solved 5 problems on java8 collectors.
+- Created Solutions like : _Student Result Grouping_ , _Word Frequency Counter_ , _Library Book Statistics_.
+- Code link [Collectors](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/main/java/com/collectors)
+---
+### Day 44 - worked on java8-programming-practice
+**Date:** 31-jan-2026
+- worked on Workshop problem in branch java8-programming-practice
+- Revise concepts about Collectors , static method, default method, functional Interface in java8.
+- Implemented concepts like FunctionalInterface , LambdaExpressions , staticMethod , defaultMethod and more ...
+- Solved 10 problems on java8 collectors.
+- Created Solution _'Smart City Transport & Service Management System'_.
+- Code link [Workshop](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/main/java/com/smartCityTransportServiceManagementSystem)
+---
 
 
 
