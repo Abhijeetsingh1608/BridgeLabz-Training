@@ -1,5 +1,17 @@
 # BridgeLabz Training 
 This is my readme file which tracks my daily activities of Git/Github during this whole Java programming traininig journey.
+> This repository contains the link to every branch where I have learned and pushed my code.
+---
+## Repository Branches:
+ * ### [core-java-practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice)
+ * ### [java-oops-practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice)
+ * ### [java-dsa-practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice)
+ * ### [java-Collections-practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice)
+ * ### [java-iostreams-practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-iostreams-practice)
+ * ### [java8-programming-practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java8-programming-practice)
+ * ### [java-design-pattern-practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-design-pattern-practice)
+---
+
 # Week 1 = core - java - practice
 ---
 ### Day 1 – Git & GitHub Setup
