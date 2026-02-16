@@ -1,0 +1,36 @@
+MySQL  localhost:33060+ ssl  student_db  SQL > DESCRIBE students;
++-----------------+--------------+------+-----+---------+----------------+
+| Field           | Type         | Null | Key | Default | Extra          |
++-----------------+--------------+------+-----+---------+----------------+
+| id              | int          | NO   | PRI | NULL    | auto_increment |
+| name            | varchar(100) | NO   |     | NULL    |                |
+| email           | varchar(100) | NO   | UNI | NULL    |                |
+| age             | int          | YES  |     | NULL    |                |
+| grade           | varchar(10)  | YES  |     | NULL    |                |
+| enrollment_date | date         | YES  |     | NULL    |                |
++-----------------+--------------+------+-----+---------+----------------+
+
+SELECT * FROM students;
+//	Insert
++----+----------------+--------------------------+-----+-------+-----------------+
+| id | name           | email                    | age | grade | enrollment_date |
++----+----------------+--------------------------+-----+-------+-----------------+
+|  1 | Shna Gurjar    | shna.gurjar@email.com    |  20 | A     | 2026-02-09      |
+|  2 | Abhijeet Kumar | abhijeet.kumar@email.com |  22 | B     | 2026-02-09      |
++----+----------------+--------------------------+-----+-------+-----------------+
+
+ MySQL  localhost:33060+ ssl  student_db  SQL > SELECT * FROM students;
+ //	After update
++----+------------------------+--------------------------+-----+-------+-----------------+
+| id | name                   | email                    | age | grade | enrollment_date |
++----+------------------------+--------------------------+-----+-------+-----------------+
+|  1 | Shna Gurjar            | shna.gurjar@email.com    |  20 | A+    | 2026-02-09      |
+|  2 | Abhijeet Kumar Updated | abhijeet.kumar@email.com |  23 | B     | 2026-02-09      |
++----+------------------------+--------------------------+-----+-------+-----------------+
+
+//	After delete
++----+------------------------+--------------------------+-----+-------+-----------------+
+| id | name                   | email                    | age | grade | enrollment_date |
++----+------------------------+--------------------------+-----+-------+-----------------+
+|  2 | Abhijeet Kumar Updated | abhijeet.kumar@email.com |  23 | B     | 2026-02-09      |
++----+------------------------+--------------------------+-----+-------+-----------------+
