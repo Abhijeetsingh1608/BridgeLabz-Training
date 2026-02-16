@@ -1,0 +1,71 @@
+ create database bank_db;
++------------+
+| database() |
++------------+
+| bank_db    |
++------------+
+ use database bank_db;
+  CREATE TABLE accounts (
+- account_id INT PRIMARY KEY,name VARCHAR(50),
+  balance DECIMAL(10,2));
+  INSERT INTO accounts VALUES
+  (101, 'Abhijeet', 1000000),
+  (102, 'Aryan',150000),
+  (103, 'Anuj', 70000),
+  (104, 'Muskan', 85000),
+  (105, 'Harsh', 50000);
++------------+----------+------------+
+| account_id | name     | balance    |
++------------+----------+------------+
+|        101 | Abhijeet | 1000000.00 |
+|        102 | Aryan    |  150000.00 |
+|        103 | Anuj     |   70000.00 |
+|        104 | Muskan   |   85000.00 |
+|        105 | Harsh    |   50000.00 |
++------------+----------+------------+
+CREATE TABLE transactions (
+ txn_id INT AUTO_INCREMENT PRIMARY KEY,
+ from_account INT,to_account INT, amount DECIMAL(10,2),txn_time TIMESTAMP DEFAULT );
+ /* Start transaction */
+  -- Deduct money (only if sufficient balance)
+  UPDATE accounts
+  SET balance = balance - 2000
+  WHERE account_id = 101
+  AND balance >= 2000;
+
+   -- Credit receiver
+   UPDATE accounts
+   SET balance = balance + 2000
+   WHERE account_id = 102;
+
+   -- Log transaction
+   INSERT INTO transactions (from_account, to_account, amount)
+   VALUES (101, 102, 2000);
+   
+   COMMIT;
++--------+--------------+------------+---------+---------------------+
+| txn_id | from_account | to_account | amount  | txn_time            |
++--------+--------------+------------+---------+---------------------+
+|      1 |          101 |        102 | 2000.00 | 2026-02-09 16:15:36 |
++--------+--------------+------------+---------+---------------------+
+ 
+/*Check balance*/
+SELECT account_id, name, balance
+FROM accounts
+WHERE account_id = 102;
+------------+-------+-----------+
+| account_id | name  | balance   |
++------------+-------+-----------+
+|        102 | Aryan | 152000.00 |
++------------+-------+-----------+
+/*Transaction History*/
+SELECT *
+FROM transactions
+WHERE from_account = 101 OR to_account = 101;
++--------+--------------+------------+---------+---------------------+
+| txn_id | from_account | to_account | amount  | txn_time            |
++--------+--------------+------------+---------+---------------------+
+|      1 |          101 |        102 | 2000.00 | 2026-02-09 16:15:36 |
++--------+--------------+------------+---------+---------------------+
+
+ 
