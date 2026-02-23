@@ -1,505 +1,95 @@
-# BridgeLabz Training 
-This is my readme file which tracks my daily activities of Git/Github during this whole Java programming traininig journey.
-# Week 1 = core - java - practice
+# dbms-jdbc-practice
+> ## This branch tracks my week 8 journey, during which I learned and implemented the concepts of dbms and JDBC.
 ---
-### Day 1 – Git & GitHub Setup
-**Date:** 16-Dec-2025
-- Installed and configured Git
-- Set up GitHub repository
--  Learned basic Git commands: `init`, `clone`, `add`, `commit`, `push`
--  Pushed initial files to GitHub
--  Code Link: [Core Java Practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice)
+## Week 8 = dbms-jdbc-practice
 ---
-###  Day 2 – Git Practice & Basic Java Programs
-**Date:** 17-Dec-2025
-- Practiced Git workflow and version control
-- Solved basic Java programs to understand syntax
-- Committed and pushed Java files
-- Code Link: [program-prerequisites](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites).
+### Day 50 - worked on 'dbms-jdbc-practice' branch
+**Date**: 06-feb-2026
+> * learn about Database Management System
+### [Relational Database]
+- It is a type of database that stores and provides access to data points that are related to one  another.
+### learn about [mySQL]
+> *   Indexing in mySQL : **primary KEY** , **Unique Index**.
+> *   Table Scan (No Index):
+> * "SELECT * FROM users WHERE username = 'john';"
+> *   -- MySQL reads EVERY row sequentially             
 ---
-###  Day 3 – Programming Elements in Java
-**Date:** 18-Dec-2025  
-- Learned variables, data types, operators, user input/output
-- Solved practice problems
-- Pushed solutions to GitHub
-- Code Link: [Programming Elements](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+## Day 51 - worked on 'dbms-jdbc-practice' branch
+**Date**: 07-feb-2026
+### understand the importance of **Security Best Practices**
+- Ensure Atomicity, Consistency, Isolation, and Durability (ACID).
+### **Prevent SQL Injection**
+> *   ● Always use parameterized queries or prepared statements."
+>*    ● Avoid dynamic SQL unless absolutely necessary.
+>*    ● Grant least privilege access (e.g., READ-ONLY for non-admin users).
+>*    ● Avoid using root or admin for application queries.
 ---
-### Day 4 - Control Flows
-**Date:** 19-Dec-2025
-- Practiced `if`, `else`, `switch`, and loops
-- Implemented decision-making programs
-- Code Link: [Control Flows](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+## Day 52 - worked on 'dbms-jdbc-practice' 
+**Date**: 08-feb-2026
+- Implemented the Solution for :
+- > [**LibraryManagement**](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/dbms-jdbc-practice/src/main/java/com/mysqlpractice/librarymanagement)
+- I have created a database named 'library_db' in which there are two tables named **_'books'_**,
+- **_'students'_**, **_'borrow_records'_**... and more!
+> * Implemented TRANSCATION
 ---
-### Day 5 – Arrays
-**Date:** 20-Dec-2025
-- Learned array declaration, traversal, and operations
-- Solved student marks and frequency problems
-- Code Link: [Arrays](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+## Day 53 - worked on 'dbms-jdbc-practice'
+**Date**: 09-feb-2026
+- Implemented the Solution for :
+>  * [**TranscationManagement**](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/dbms-jdbc-practice/src/main/java/com/mysqlpractice/transactionmanagement)
+- I have created a database called **_bank_db_** in which I have created table named as **_Account_** .
+> * I have performed transcation between different accounts by using 'account_id'.
 ---
-### Day 6 - Methods
-**Date:** 21-Dec-2025
-- Learned methods declaration,operations
-- Solved practice set of levelone,leveltwo and levelthree
-- Code Link: [Methods](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)
+- Implemented the Solution for :
+>  * [**Employee-Management**](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/dbms-jdbc-practice/src/main/java/com/mysqlpractice/employeemanagement)
+- I have created a database called **D_employee** in which I have created table named as **_employee_** .
+> * I have performed various operations on it. Some of them are listed below:
+> * **Adding Employee**
+> * **Viewing all Employee**
+> * **Updating Salary** and more...
+- [code link](https://github.com/harsh-vardhan36/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/dbms_jdbc_practice/src/main/resources/sql_practice)
 ---
-### Day 7 – Strings
-**Date:** 22-Dec-2025
-- Explored String, Exception Handing, Error, and try -catch
-- practice Error Handling in String and IndexBound Exception
-- Code Link: [Strings](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
+## Day 54 - worked on 'dbms-jdbc-practice' branch 
+**Date**: 10-feb-2026
+- ### Solved M1 Mock question paper
+- > Solved 3 questions
+- Question 1: Smart Canteen Order Tracker Scenario
+> * A corporate office has a smart canteen where employees place food orders during lunch hours.
+Each order contains the employee name, food item, quantity, and price per item.
+- Question 2: Online Fitness App – Weekly Activity Analyzer
+> * An online fitness application tracks the daily step count of a user for 7 days to analyze fitness
+Performance.
+- Question 3: Course Enrollment Analyzer 
+> * A training institute wants to analyze course enrollments before publishing its annual report. 
 ---
-### Day 8 - Extras 
-**Date:** 23-Dec-2025
-- Explored errors,exception handling and its use case
-- Use case of try, catch, finally
-- Solved practice set of extras problems
-- Code Link:[Extras](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+## Day 55 - worked on'dbms-jdbc-practice' branch
+**Date**: 11-feb-2026
+- ### Learnt about [**JDBC**]
+ > * JDBC stands for Java Database Connectivity
+- Topics Covered: 
+ > * JDBC Architecture
+ > * CRUD operaations
+ >  * _prepared Statement_ vs _statement_
+- JDBC Workflow:
+> * Load Driver → Establish Connection → Create Statement →
+Execute Query → Process Results → Close Resources
+- lastly, I have established the [**database connection**](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/dbms-jdbc-practice/src/main/java/com/jdbcPractice) using jdbc.
 ---
-### Day 9 - Scenario based and leetcode problems 
-**Date:** 24-Dec-2025
-- Solved Scenario base questions 
-- Also solved leetcode problem of two sum
-- Code Link:[Scenario based ](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
-- Code Link:[Leetcode](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
+## Day 56 - worked on 'dbms-jdbc-practice' branch
+**Date**: 12-feb-2026
+- ### Performed CRUD operation on database using jdbc:
+> * [**CRUD**](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/blob/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/dbms-jdbc-practice/src/main/java/com/jdbcPractice/CRUDOperations/data.txt) on DB.
+- Performed Create, Read, Update, and Delete opeations.
+> - [**Insert Example**](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/blob/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/dbms-jdbc-practice/src/main/java/com/jdbcPractice/CRUDOperations/InsertData.java) : Inserted students details
+> - [**Read Example**](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/blob/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/dbms-jdbc-practice/src/main/java/com/jdbcPractice/CRUDOperations/ReadData.java) : Read students details
+> - [**Update Example**](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/blob/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/dbms-jdbc-practice/src/main/java/com/jdbcPractice/CRUDOperations/UpdateData.java) : Update Student details
+> - [**Delete Example**](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/blob/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/dbms-jdbc-practice/src/main/java/com/jdbcPractice/CRUDOperations/DeleteData.java) : Delete student details
 ---
-# Week 2 = java - oops - practice
-### Day 10– Branch Creation on Github and Oops Overview
-**Date:** 26-Dec-2025
-- Learnt how to Create multi branchs on same repository
-- Explored how to switch branches
-- learnt use of class and object in Oops
-- Solved Scenario based and leet code problems
-- Code link: [Java oops practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice)
--Code Link:[Class and objects](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
-- Code Link:[Scenario based ](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
-- Code Link:[Leetcode](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
-  ---
- ### Day 11– Constructors 
-**Date:** 27-Dec-2025
-- Explored about constructors and their use cases
-- Solved practice set for constructors
-- Eplored about instance and class variables
-- Solved leetcode problems
-- Code link:[Constructors](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/levelone)
--  Code Link:[Leetcode](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
-  ---
-  ### Day 12 - Scenario Based program
-**Date:** 29-Dec-2025
-- Added Scenario Based Solution to the given programs.
-- worked on various method to solve scenario like 'Parking System', 'ShopkeeperDiscountDashboard', 'Recharge Simulator'
-- code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
+## Day 57- worked on 'dbms-jdbc-practice' branch
+**Date**: 13-feb-2026
+- ### performed a transaction on the database using JDBC
+> * [**Transaction db**](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/blob/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/dbms-jdbc-practice/src/main/java/com/jdbcPractice/transaction/Transcation.db) on DataBase.
+- Implemented SavePoint for each transaction.
+- Implemented Transaction using JDBC
+> * [**Transaction Example**](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/blob/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/dbms-jdbc-practice/src/main/java/com/jdbcPractice/transaction/TransactionExample.java)
+> * [**SavePoint Example**](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/blob/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/dbms-jdbc-practice/src/main/java/com/jdbcPractice/transaction/SavepointExample.java)
 ---
-### Day 13 - Worked on Inbuilt Function
-**Date:** 30-Dec-2025
-- Worked on java-oops-practice Branch
-- created real world problem solutions using access modifier 'private', 'public'.
-- used keywords like 'static' 'final'.
-- Solved Scenario based questions.
-- code link[oops-Inbuilt](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction)
-- code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
----
-### Day 14 - Worked on java oops practice and scenario based 
-  **Date:** 31-Dec-2025
-  - worked on java-oops-practice
-  - learnt to draw object,class and sequence diagram
-  - Solved practice set for objectmodelling
-  - code link[Objectmodelling](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling)
-  - code link[Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
----
-### Day 15 - Worked On java-oops-practice
-**Date:** 01-Jan-2026
-- Worked on java-oops-practice
-- worked on Inheritance
-- Solved problems like 'UniversityAndManagement System', 'Company and Department'
-- code link [Inheritance](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
-- code link[Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebase)
----
-### Day 16 - Worked on java-oops-practice
-**Date:** 02-Jan-2026
-- Worked on java-oops-practice
-- practice Encapsulation, Polymorphism 
-- code link [Encapsulation](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
----
-### Day 17 - Worked on Scenario Based problem
-**Date:** 03-jan-2026
-- Worked on java-oops-practice branch
-- created a new folder structure in branch 'java-oops-practice' with name 'scenario-based'.
-- practice 5 problem of Scenario Based
-- Created Solutions like 'VehicleRental Application', 'ewallet Application'... and more.
-- Implemented abstraction concept to create abstract Class also used function overriding Concepts.
-- code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
-  ---
-# Week 3 = java - dsa - practice 
-### Switched to java-dsa-practice
-###  Topics Covered
-- Practiced **LinkedList problems**
-- Studied core concepts of:
-  - Singly Linked List
-  - Doubly Linked List
-- Implemented **Circular Linked List**
-- Solved related LinkedList problems
-### Problems Solved
-- Round Robin Problem
-- Library Management System
-- **Code Link:** [LinkedList](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/linkedlist)
-  ---
- ## Day 18 – Worked on Scenario Based Problems
-**Date:** 04-Jan-2026
-### Java OOPS Practice
-- Worked on `java-oops-practice` branch
-- Solved **2 more problems** in the *Scenario Based* folder
-- Created solutions:
-  - **CabbyGO**
-  - **My Bank**
-- Implemented concepts:
-  - Interfaces
-  - Abstraction
-  - Inheritance
-- Used access modifiers:
-  - `private`
-  - `protected`
-  (to protect data and files from direct access)
-- **Code Link:** [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
----
-## Day 18 – Worked on Java DSA Practice
-**Date:** 04-Jan-2026
-### Stack
-- Practiced Stack programs
-- Implemented:
-  - Recursion
-  - Stock Span problem
-- **Code Link:** [Stack](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/stackandqueue)
-### Queue
-- Practiced Queue programs
-- Implemented:
-  - Queue using Stack
-  - Greedy approach in Queue
-- **Code Link:** [Queue](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/stackandqueue)
-### HashMap
-- Practiced HashMap programs
-- Solved problems:
-  - Two Sum (using HashSet)
-  - SubArray problem
-- **Code Link:** [HashMap](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/hashmapandhashfunctions)
-
----
-## Day 19 – Worked on Scenario Based Problems
-**Date:** 05-Jan-2026
-### Java OOPS Practice
-- Worked on `java-oops-practice` branch
-- Solved **2 more problems** in the *Scenario Based* folder
-- Created solutions:
-  - **CampusConnect**
-  - **Swift Cart**
-- Implemented concepts:
-  - Interfaces
-  - Abstraction
-  - Inheritance
-- **Code Link:** [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
-  ---
-### Day 20 – Worked on Scenario Based Problems
-**Date:** 06-Jan-2026
-### Java OOPS Practice
-- Worked on `java-oops-practice` branch
-- Solved **2 more problems** in the *Scenario Based* folder
-- Created solutions:
-  - **edumentor**
-  - **FitTrack**
-- Implemented concepts:
-  - Interfaces
-  - Access modifiers
-  - Inheritance
-- **Code Link:** [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
- ---
- ## Sorting Algorithms
-**Date:** 06-Jan-2026  
-###  Topics Covered
-- Practiced **Sorting algorithm programs**
-- Solved problems of:
-  - Bubbles sort,merge sort,inserion sort,heap sort,selection sort and quick sort
-    
- **Code Link:** [Sorting](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/sorting)
- ---
- ### Day 21 Worked on 'java-dsa-practice' branch
-**Date:** 07-Jan-2026
-- Practice Linear and Binay Search Algorithm
-- Implemented various Searching Algorithm like '_linearSearch_', '_BinarySearch_', and various functions like '_StringBuffer_', '_StringBuilder_' and More...
-- Solved Problems like 'RemoveDuplicates', 'Sentence Search' Peak Element.
-- code link [Linear and binary](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/linearandbinarysearch)
----
-### Worked On Scenario Based Problems
-**Date:** 07-jan-2026
-- Worked on java-oops-practice Branch
-- Solved 5 problems in the scenario Based Folder.
-- Created Solutions like '_LoanBuddy_', '_PetPal_', '_Book Bazaar_', '_ParkEase_' and more..
-- Implemented Concepts like Inheritance, Interfaces and Encapsulation.
-- code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
----
-### Day 22 - Worked On Scenario Based Problems
-**Date:** 08-jan-2026
-- Worked on java-oops-practice Branch
-- Solved 2 problems in the scenario Based Folder.
-- Created Solutions like '_MediStore_', '_TourMate_'...
-- Implemented Concepts like Inheritance, Interfaces, Encapsulation and Polymorphism.
-- code link [Scenario based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
----
-### Day 23 Worked on 'java-dsa-practice' branch
-**Date:** 09-Jan-2026
-- Practice Runtime Analysis of Algorithm
-- Implemented various Searching and Sorting Algorithm like '_linearSearch_', '_BinarySearch_', _MergerSort_', '_QuickSort_' and More...
-- Compare between different Algorithms on their runtime.
-- Solved Problems like 'String Concatenation ', 'Search COmparison' 'Sorting comparison'.
-- code link [Runtime Analysis](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javadsaconcepts/src/com/runtimeanalysis)
----
- ### Day 24 worked On scenario Based Problems
-**Date:** 10-jan-2026
-- worked on java-oops-practice branch
-- Solved 3 problems in the scenario Based Folder.
-- Created Solution like '_artify_', '_FoodLoop_', '_SkillForge_'.
-- Implemented Concepts like Inheritance, Interface and Encapsulation.
-- code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
----
-### Day 25 worked on 'java-dsa-practice' branch
-**Date:** 11-jan-2026
-- Worked on 'scenario-based' directory in branch java-dsa-practice
-- Solved 3 Scenario Based problems.
-- Used various Data structure stacks like linkedlist and queue.
-- Solved problems like '_BookSelf_', '_BrowserBuddy_' and '_AmbulanceRoute_'.
-- code link[scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
- ---
- ### Day 26 worked on 'java-dsa-practice' 
-**Date:** 12-jan-2026
-- worked on 'scenario-based' directory in branch java-dsa-practice
-- Solved 3 Scenario Based problem.
-- Used Various Data Structure like HashMap, stack, circularLinkedlist,
-- Solved problems like '_TextEditor_', '_TrafficManager_', 'TrainCompanion'.
-- code link[scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
- 
-### worked on Scenario Based Problems
-**Date:** 12-jan-2026
-- Worked on java-oops-practice branch
-- Solved 3 more problems in the Scenario based Folder
-- Created Solutions like '_HomeNest_', '_BudgetWise_', '_GameBox_'..
-- Implemented Concepts like Interface, Inheritance, constructors and more.
-- code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
----
-### Day 27 worked on 'java-dsa-practice' 
-**Date:** 13-jan-2026
-- worked on 'scenario-based' directory in branch java-dsa-practice
-- Solved 3 Scenario Based problem.
-- Used Various Data Structure like HashMap, stack, circularLinkedlist,
-- Solved problems like '_SmartCheckout_', '_ParcelTracker_', '_ExamProctor_'.
-- code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
----
-### Day 28 - worked on Scenario Based Problems
-**Date:** 14-jan-2026
-- Worked on java-oops-practice branch
-- Solved 2 more problems in the Scenario based Folder
-- Created Solutions like '_payXpress_' and '_BirdSanctuary_'.
-- Implemented Concepts like Interface, Inheritance, constructors and more.
-- code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/javaScenariobased/src/com/Scenariobased)
----
-### Day 29 worked on 'java-dsa-practice' 
-**Date:** 15-jan-2026
-- worked on 'scenario-based' directory in branch java-dsa-practice
-- Solved 5 more Scenario Based problem.
-- Used Various Data Structure like BubbleSorting, MergeSort, divide&Conquer technique" and more...
-- Solved problems like '_HospitalQueue_', '_SmartSelf_', '_zipzipMart_',_EventManager_ and _ExamCell_.
-- code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
----
-### Day 30 worked on 'java-dsa-practice' 
-**Date:** 16-jan-2026
-- worked on 'scenario-based' directory in branch java-dsa-practice
-- Solved 3 more Scenario Based problem.
-- Used Various Data Structure like BubbleSort, MergeSort, divide&Conquer technique" and more...
-- Solved problems like '_RoboWareHouse_', '_CinemaHouse_', '_cropMonitor_'.
-- code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
----
-# Week 4 = java - collections - practice
----
-### Day 30 – Java Generics
-**Date:** 16-jan-2026
-- Worked on java Generics in branch **java-collections-practice**
-- Learn about **type safety**, **reusability**, and **maintainability** in java
-- Learn about Upper Lower Bound wildCard '< ? >' for read only access.
-- Implemented 5 program in java generics
-- Solved problems like _SmartWareHouse Management_ , _Personalized Meal Plan Generator_ , _Multi-level Course_ and more...
-- code link [Generics](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/generics)
----
-### Day 31 - Collections
-**Date:** 17-jan-2026
-- Worked on java collections
-- Learn about **Interfaces** like _List_, _Map_, _Queue_ and more..
-- Implemented 20 program in java Interface.
-- Solved other collections programs as well like voting System, Shopping cart and Banking System.
-- Solved problems like _RotateElements_ , _NthfromEnd_ , _unionandIntersectionsinSet_ and more...
-- code link [listinterface](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/listinterface)
-- code link [mapinterface](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/mapinterface)
-- code link [setinterface](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/setinterface)
-- code link [Queue Interface](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/queueinterface)
-- code link [Examples](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/examples)
-  ---
- ###  worked on 'java-dsa-practice' 
-**Date:** 17-jan-2026
-- worked on 'scenario-based' directory in branch java-dsa-practice
-- Solved 4 more Scenario Based problem.
-- Used Various Data Structure like BubbleSort, MergeSort, divide&Conquer technique" and more...
-- Solved problems like '_ArtExpo_', '_FleetManager_', '_IceCreamRush_', ''_SmartLibrary_'.
-- code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
----
-### Day 32 worked on 'java-oops-practice'
-**Date:** 18-jan-2026
-- Worked on java-oops-practice branch
-- Solved 2 more problems in the Scenario based Folder
-- Created Solutions like '_GeoMeasure_' and '_BagnBall_'.
-- Implemented Concepts like Interface, Inheritance, constructors and more.
-- code link [Scenario Based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
----
-### Day 34 - java Streams on branch 'java-collections-practice'
-**Date:** 20-jan-2026
-- worked on java streams 
-- Learn about File Handling, Buffered Streams, ByteArray Streams
-- Implemented 10 programs on java streams
-- solved problems like _Read a Large File_, _Store and Retrieve_, _Efficient file copy_ and more..
-- code link [java streams](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/javastreams)
----
-### Day 35 - Exceptions Handling on branch 'java-collections-practice'
-- worked on exceptions handling
-- learnt about types of exceptions like as - checked and unchecked exxceptions
-- Explored exception handling blocks lke as - try-catch blocks,try-catch-finally blocks
-- Used throws clause, throw statement as well.
--Solved problems like checked, unchecked and custom exceptions
--Code Link [Exceptions](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/exceptionhandling)
- ### Day 36 - Regex & JUNIT
-**Date:** 22-jan-2026
-- worked on java-collections-practice branch
-- Learn about Regex API like: '_Pattern_' , '_matcher_' and other methods like find(), replaceall() matches()
-- Learn About JUNIT Framework, perform various testing through it. @beforeeach, @test and various other methods.
-- Solved 15 problems using Regex of different difficulty like basic and Advance.
-- Implemented Solutions of problems like usernameValidator, SSNValidator, HexColour Code and more...
-- code link [regex](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/regex)
-  ---
-  ### JUNIT problems
-  **Date:** 22-jan-2026
- - worked on java-collections-practice
- - Implemented JUNIT testing in 13 problems statement
- - Solved problems like:  _privatecalulator_, _stringutility_, _@beforeeachAnnotation_, _@aftereachAnnotation_ , _testingExceptionHandling_ and more...
-- code link [JUNIT](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/junit)
-  ---
-  ### worked on 'java-dsa-practice' 
-**Date:** 22-jan-2026
-- worked on 'scenario-based' directory in branch java-dsa-practice
-- Solved 3 more Scenario Based problem.
-- Used concepts of Binary Search Tree to solve problems.
-- Solved problems like '_universityrecord_', '_ecommerceproduct_, '_musicapp_'.
-- code link [scenario-based](https://github.com/harsh-vardhan36/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/com/src/com/scenariobased/binarysearchtree)
----
-### Day 37 worked on 'java-dsa-practice' 
-**Date:** 23-jan-2026
-- worked on 'scenario-based' directory in branch java-dsa-practice
-- Solved 3 more Scenario Based problem.
-- Used concepts of AVL Tree to solve problems.
-- Solved problems like '_gamingapp_', '_onlineticketbooking_, '_hospitalqueue_'.
-- code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/Scenario-based-codebase/com/src/com)
----
-  ### Day 37 - Reflection
-  **Date:** 23-jan-2026
- - worked on java-collection-practice branch
- - Learned Java Reflection fundamentals and runtime class inspection Explored Class, Method, Field, Constructor APIs.
- - Accessed private fields, methods, constructors dynamically  
- - Created objects and invoked methods at runtime  
- - Worked with annotations and dynamic proxies  
- - Built mini versions of DI container, object mapper, and JSON serializer  
- - Implemented logging and method execution timing using reflection
- - Code link [Reflections](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/reflection)
----
-### Day 38 - Annotations
-**Date:** 24-jan-2026
-- Worked on java-collections-practice branch
-- Learned core concepts of Java Annotations (built-in, custom, meta-annotations).
-- practiced annotations like @override, @deprecated, SuppressWarnings.
-- Solved 7 problems on Annotations
-- Implemented Reflection-based processing of annotations
-- Code link [Annotations](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/annotations)
-- [Customannotations](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/customannotations)
----
-### Day 39 - Scenario-based practice
-**Date:** 25-jan-2026
-- worked on scenario-based on java-collections-practice branch
-- Implemented Concepts like Collections, Generics, and Regex
-- Solved 10 problems of scenario-based quesstions
-- Implemeted solutions of problems like DealTracker, SongVault, ResumeAnalyzer, TravelLog and more...
-- used concepts like collections, exceptionHandling, streams, Map<>, regex and more...
-- Code link [scenario-based](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/Scenario-based-codebase/com/src/com)
----
-# Week 5 -  java - iostreams - practice
----
-### Day 39 - worked on java-iostreams-practice branch
-**Date:** 25-jan-2026
-- worked on java-iostreams-practice branch
-- Learn about Comma Seperated File (CSV) Data Handeling.
-- Implemented concepts like writing in csv files, reading csv files, parsing csv data and data validation.
-- Solved 15 problems in CSV directories.
-- Created Solutions like : _Read a CSV File and Print Data_ , _Read and Count Rows in a CSV File_ , _Modify a CSV File_ and more...
-- code link [CSV](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/javaiostreamsconcept/src/com/csv)
----
-### Day 40 - worked on java-iostreams-practice branch
-**Date:** 27-jan-2026
-- worked on java-iostreams-practice
-- Learn about Javascript Object Notation known as JSON file
-- Implemented Concepts like Reading JSON Data, Writing JSON Data, Parsing JSON Data, JSON Schema Validation.
-- Solved 15 problems in JSON Directories.
-- Implemented Questions like Student, Car, JSON file , JSON array and JSON to XML Format.
-- code link [JSON](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/javaiostreamsconcept/src/com/json)
----
-# week 6 = java8 - programming - practice
----
-### Day 41 - worked on java8-programming-practice branch
-**Date:** 28-jan-2026
-- Worked on java8-programming-practice
-- Learn about Lambda expressions
-- Implemented concepts like Functional Interface, override, and more...
-- Solved 6 more programs of lambda expressions
-- Created solutions like : _Ecommerce_, _Filtering_, _SmartHome_...
-- Code link [Lambda Expression](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/main/java/com/lambdaepressions)
----
-### worked on Functional Interface in java8-programming-practice branch
-**Date:** 28-jan-2026
-- worked on java8-programming-practice branch
-- Learn about Functional Interface in java8.
-- Implemented concepts like Interface, Predicate<> , Function, Marker Interface.
-- Solved 15 programs on Functional Interface.
-- Created Solutions like : _Digital Payment_ , _Temperature ALert System_ , _Date Format Ulity_, _Data Tagging_ and more ...
-- Code link [Functional Interface](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/main/java/com/funtionalinterfaces)
----
-### Day 42 - worked on java8-programming-practice
-**Date:** 29-Jan-2026
-- Worked on java8-programming-practice branch
-- Learn about Stream API
-- Implemented concepts like collect, foreach, ordered Streams and  unordered Streams
-- Solved 10 programs on Streams API. 
-- Created Solution like : _Hospital Doctor Availability_ , _Stock Price Logger_, _IOT Sensor Reading_ , _Logging Transcations_ and more ...
-- code link [Stream API](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/main/java/com/streamapi)
----
-### Day 43 - worked on java8-programming-practice
-**Date:** 30-jan-2026
-- worked on java8-programming-practice
-- Learn about Collectors in java8.
-- Implemented the concepts like _groupingBy()_ , _toMap()_ , _.collect_ and more ...
-- Solved 5 problems on java8 collectors.
-- Created Solutions like : _Student Result Grouping_ , _Word Frequency Counter_ , _Library Book Statistics_.
-- Code link [Collectors](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/main/java/com/collectors)
----
-### Day 44 - worked on java8-programming-practice
-**Date:** 31-jan-2026
-- worked on Workshop problem in branch java8-programming-practice
-- Revise concepts about Collectors , static method, default method, functional Interface in java8.
-- Implemented concepts like FunctionalInterface , LambdaExpressions , staticMethod , defaultMethod and more ...
-- Solved 10 problems on java8 collectors.
-- Created Solution of _'Smart City Transport & Service Management System'_.
-- Code link [Workshop](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8programmingpractice/src/main/java/com/smartCityTransportServiceManagementSystem)
----
-
-
-
-
