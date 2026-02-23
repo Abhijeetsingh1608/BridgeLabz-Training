@@ -10,6 +10,7 @@
  * ### [java-iostreams-practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-iostreams-practice)
  * ### [java8-programming-practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java8-programming-practice)
  * ### [java-design-pattern-practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/java-design-pattern-practice)
+ * ### [dbms-jdbc-practice](https://github.com/Abhijeetsingh1608/BridgeLabz-Training/tree/dbms-jdbc-practice)
 ---
 This is my readme file which tracks my daily activities of Git/Github during this whole Java programming traininig journey.
 # Week 1 = core - java - practice
